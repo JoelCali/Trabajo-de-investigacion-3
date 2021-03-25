@@ -53,6 +53,10 @@ A continuación se mostraran los cálculos de la resistencia RL y de la corrient
 
 6. CONCLUSIONES
 
+* El aumento o disminución del voltaje dependerá tanto de el numero de vueltas en os devanados y la corriente que cambia en una bobina para inducir voltaje en la otra.
+
+* En conclusión, se utilizan varias fórmulas matemáticas las cuales fueron útiles para registrar cuantas vueltas existían en los devanados, la carga inducida, el voltaje y la corriente total. Pero notamos que una formula en concreto que repetía de manera regular, ya que utilizaba la comparación entre las bobinas primarias y secundarias. Esta relación nos permitió aplicar para cada literal especifico.
+
 7. BIBLIOGRAFIA
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
